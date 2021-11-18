@@ -14,4 +14,4 @@ if num4 > num3 > num >num2: print(num4, num3, num, num2)
 if num4 > num2 > num3 >num: print(num4, num2, num3, num)
 if num3 > num4 > num2 >num: print(num3, num4, num2, num)
 
-# ЕЩЕ МОЖНО БЫЛО МНОГО ПИСАТЬ НОЯ НЕ СТАЛ. ИЗЗА ТОГО ЧТО ВЫ ПОЩИТАЕТЕ ЕГО ПЛОХИМ КОДОМ
+# ЕЩЕ МОЖНО БЫЛО МНОГО ПИСАТЬ НО НЕ СТАЛ. ИЗЗА ТОГО ЧТО ВЫ ПОСЧИТАЕТЕ ЕГО ПЛОХИМ КОДОМ
